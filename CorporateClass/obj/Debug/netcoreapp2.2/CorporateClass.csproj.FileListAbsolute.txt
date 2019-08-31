@@ -1,0 +1,11 @@
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\bin\Debug\netcoreapp2.2\CorporateClass.deps.json
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\bin\Debug\netcoreapp2.2\CorporateClass.runtimeconfig.json
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\bin\Debug\netcoreapp2.2\CorporateClass.runtimeconfig.dev.json
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\bin\Debug\netcoreapp2.2\CorporateClass.dll
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\bin\Debug\netcoreapp2.2\CorporateClass.pdb
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\obj\Debug\netcoreapp2.2\CorporateClass.csprojAssemblyReference.cache
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\obj\Debug\netcoreapp2.2\CorporateClass.csproj.CoreCompileInputs.cache
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\obj\Debug\netcoreapp2.2\CorporateClass.AssemblyInfoInputs.cache
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\obj\Debug\netcoreapp2.2\CorporateClass.AssemblyInfo.cs
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\obj\Debug\netcoreapp2.2\CorporateClass.dll
+C:\Users\wchip\source\repos\CorporateClass\CorporateClass\obj\Debug\netcoreapp2.2\CorporateClass.pdb
